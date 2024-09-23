@@ -1,8 +1,8 @@
-###  DATE: 19-09-2024
+###  DATE: 23-09-2024
 
-###  NAME: SUSINDHAR K M
-###  ROLL NO :212223040218
-###  DEPARTMENT: CSE
+###  NAME: 
+###  ROLL NO :212223220025
+###  DEPARTMENT: IT
 
 # EXPERIMENT--04-INTERFACING IOT DEVELOPMENT BOARD AND CONFIGURE USART FOR TRANSFERRING STRINGS 
 ## Aim: To Interface iot development board for configuring the the usart and transfer strings though it 
